@@ -176,3 +176,7 @@ Microsoft Power Platform | Software Engineering | Data Analytics
 [GitHub](https://github.com/pavankumarmukkera)
 
 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-mukkera-b19908188/)
+
+## Proposed Power Platform extension
+
+A project-specific **concept (not a deployed implementation)**: Community engagement activity capture and reporting. [Read the design](power-platform/PROJECT-SPECIFIC-EXTENSION.md).
